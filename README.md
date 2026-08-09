@@ -8,18 +8,18 @@ I am a Full Stack .NET Developer with 8+ years of experience in
 designing and developing enterprise web applications.
 
 ### 🚀 Technical Skills
-• C#
-• ASP.NET Core
-• RESTful Web API
-• .NET 6 & 8
-• Angular
-• SQL Server
-• Azure
-• Git & GitHub
-• Generative AI
-• GitHub Copilot
-●	Unit & Integration Testing
-●	Entity Framework Core
+• C# |
+• ASP.NET Core |
+• RESTful Web API |
+• .NET 6 & 8 |
+• Angular |
+• SQL Server |
+• Azure |
+• Git & GitHub |
+• Generative AI |
+• GitHub Copilot |
+●	Unit & Integration Testing |
+●	Entity Framework Core |
 
 ### 💼 What I Do
 
