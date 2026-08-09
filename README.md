@@ -31,19 +31,21 @@ designing and developing enterprise web applications.
 • Implement cloud solutions using Azure
 • Use AI tools to improve development productivity
  
-### CERTIFICATE
+### 🏅 CERTIFICATE
 •	AI & Gen AI Fundamentals
 •	GitHub Copilot / Visual Studio
 •	Azure Fundamentals (AZ-900) 
 
 
-### ACHIEVEMENTS
+### 🏆 ACHIEVEMENTS
 •	Client Appreciation Award: Recognised by Syndicate Bank for best-in-class delivery on the HRMS Biometric Attendance System, awarded to outstanding contributors from the Inspira Enterprise team.
+
 •	Zero-Downtime Migrations: Successfully led multiple server-to-server application migrations (DC to DR) with no data loss and minimal business disruption.
 
-### ADDITIONAL INFORMATION
+### 📝 ADDITIONAL INFORMATION
 
-•	Notice Period: Immediate
+•	Notice Period: Immediate 
+
 🔭	Current Location: Bangalore, India 
 •	Open to Relocation: Yes
 
