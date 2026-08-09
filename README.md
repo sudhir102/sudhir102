@@ -23,17 +23,19 @@ designing and developing enterprise web applications.
 
 ### 💼 What I Do
 
-• Develop scalable Web APIs
-• Build enterprise applications
-• Design REST APIs
-• Work with SQL Server
-• Develop Angular applications
-• Implement cloud solutions using Azure
-• Use AI tools to improve development productivity
+ Develop scalable Web APIs |
+ Build enterprise applications |
+ Design REST APIs |
+ Work with SQL Server |
+ Develop Angular applications |
+ Implement cloud solutions using Azure |
+ Use AI tools to improve development productivity 
  
 ### 🏅 CERTIFICATE
 •	AI & Gen AI Fundamentals
+
 •	GitHub Copilot / Visual Studio
+
 •	Azure Fundamentals (AZ-900) 
 
 
@@ -44,14 +46,17 @@ designing and developing enterprise web applications.
 
 ### 📝 ADDITIONAL INFORMATION
 
-•	Notice Period: Immediate 
+📅	Notice Period: Immediate 
 
 🔭	Current Location: Bangalore, India 
-•	Open to Relocation: Yes
+
+📍	Open to Relocation: Yes
 
 ### 📫 How to reach me
-- LinkedIn: www.linkedin.com/in/sudhir-kumar-285b9082
-- GitHub: sudhir102
-- Email: sudhir.kr0902@gmail.com
+💼 LinkedIn: www.linkedin.com/in/sudhir-kumar-285b9082
 
-Thankyou 
+🐙 GitHub: https://github.com/sudhir102
+
+✉️ Email: sudhir.kr0902@gmail.com
+
+😊 Thankyou 
