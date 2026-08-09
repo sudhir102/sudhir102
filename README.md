@@ -59,4 +59,4 @@ designing and developing enterprise web applications.
 
 ✉️ Email: sudhir.kr0902@gmail.com
 
-😊 Thankyou 
+👋 Thank you for taking the time to visit my profile. I appreciate your interest and look forward to connecting with you!
