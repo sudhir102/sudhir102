@@ -57,6 +57,6 @@ designing and developing enterprise web applications.
 
 🐙 GitHub: https://github.com/sudhir102
 
-✉️ Email: sudhir.kr0902@gmail.com
+✉️ Email: kumar.sudhir0902@gmail.com
 
 👋 Thank you for taking the time to visit my profile. I appreciate your interest and look forward to connecting with you!
