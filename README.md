@@ -38,11 +38,8 @@ designing and developing enterprise web applications.
 
 •	Azure Fundamentals (AZ-900) 
 
-
 ### 🏆 ACHIEVEMENTS
 •	Client Appreciation Award: Recognised by Syndicate Bank for best-in-class delivery on the HRMS Biometric Attendance System, awarded to outstanding contributors from the Inspira Enterprise team.
-
-•	Zero-Downtime Migrations: Successfully led multiple server-to-server application migrations (DC to DR) with no data loss and minimal business disruption.
 
 ### 📝 ADDITIONAL INFORMATION
 
